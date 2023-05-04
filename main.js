@@ -1,9 +1,13 @@
 function myFunction1() {
-    window.open("https://web.whatsapp.com/", "_blank", "toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=400,height=400");
+    window.open("https://web.whatsapp.com/", "_blank", );
 }
 
 function myFunction2() {
-    window.open("https://web.telegram.org/z/", "_blank", "toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=400,height=400");
+    window.open("https://web.telegram.org/z/", "_blank",);
+}
+
+function myFunction4() {
+    window.open("https://mail.google.com/mail/u/0/#inbox", "_blank",);
 }
 
 
