@@ -15,7 +15,7 @@ function myFunction4() {
 function videocall() {
     let video = document.getElementById("iframe_a");
     let x = Math.random().toString(36).substring(2, 7);
-    let y = "https://videolify.up.railway.app/join/22726ShinyBeaver".concat(x);
+    let y = "https://p2p.mirotalk.com/join/77954BlackRat".concat(x);
 
     video.src = y;
     video.target
